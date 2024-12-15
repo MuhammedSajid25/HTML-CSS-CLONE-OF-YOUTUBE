@@ -28,7 +28,7 @@ To view the "YouTube Home Page UI" on your local machine, follow these steps:
 Clone the repository to your local machine using the following command:
 
 ```
-git clone https://github.com/codewithmawais/youtube-clone-html-css.git
+git clone https://github.com/MuhammedSajid25/HTML-CSS-CLONE-OF-YOUTUBE.git
 ```
 
 
@@ -37,7 +37,7 @@ git clone https://github.com/codewithmawais/youtube-clone-html-css.git
 Navigate to the project directory:
 
 ```
-cd youtube-clone-html-css
+cd HTML-CSS-CLONE-OF-YOUTUBE
 ```
 
 ### Start the Application
@@ -45,10 +45,6 @@ cd youtube-clone-html-css
 1. Open the `youtube.html` file.
 2. Right-click on the file and select "Open with Live Preview."
 3. This will launch a live preview of the website in your default web browser.
-
-### Explore and Enjoy
-
-Open your web browser and visit [http://localhost:3000](http://localhost:3000) to experience the "YouTube Home Page UI".
 
 ---
 
